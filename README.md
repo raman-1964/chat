@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with My Chat Application
 
 This frontend was bootstrapped with [vite](https://vitejs.dev/guide/).
 
