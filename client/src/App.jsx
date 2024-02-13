@@ -63,6 +63,7 @@ function App() {
           <div className="enter-div">
             <input
               className="input"
+              placeholder="Enter your name."
               type="text"
               value={userName}
               onChange={(e) => setUserName(e.target.value)}
@@ -125,6 +126,7 @@ function App() {
               <input
                 className="input"
                 type="text"
+                placeholder="Type message"
                 value={message}
                 onChange={(e) => setMessage(e.target.value)}
               />
